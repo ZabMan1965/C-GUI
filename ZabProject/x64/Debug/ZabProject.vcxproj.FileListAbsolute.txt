@@ -1,0 +1,3 @@
+C:\Users\Aigle-royale\source\repos\ZabProject\ZabProject\x64\Debug\ZabProject.vcxproj.AssemblyReference.cache
+C:\Users\Aigle-royale\source\repos\ZabProject\ZabProject\x64\Debug\ZabProject.MyForm.resources
+C:\Users\Aigle-royale\source\repos\ZabProject\ZabProject\x64\Debug\ZabProject.vcxproj.GenerateResource.cache

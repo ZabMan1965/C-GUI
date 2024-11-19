@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Aigle-royale\source\repos\ZabProject\ZabProject\MyForm.cpp(8,6): warning C4829: Paramètres potentiellement incorrects dans la fonction main. Utilisez 'int main(Platform::Array<Platform::String^>^ argv)' à la place
+  MyForm.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  ZabProject.vcxproj -> C:\Users\Aigle-royale\source\repos\ZabProject\x64\Debug\ZabProject.exe
